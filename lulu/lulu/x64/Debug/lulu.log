@@ -1,0 +1,4 @@
+﻿  lulu.cpp
+C:\Users\HONOR\source\repos\lulu\lulu\lulu.cpp(24,16): warning C4309: return: усечение константного значения
+C:\Users\HONOR\source\repos\lulu\lulu\lulu.cpp(45,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lulu.vcxproj -> C:\Users\HONOR\source\repos\lulu\x64\Debug\lulu.exe
