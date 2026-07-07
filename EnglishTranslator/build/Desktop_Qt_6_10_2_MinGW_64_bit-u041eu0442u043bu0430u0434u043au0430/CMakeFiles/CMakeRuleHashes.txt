@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+1db17ade3d41cd0f77fe608b13d9c37f CMakeFiles/EnglishTranslator_autogen
+53ab1c6cc8cc32f80aace27026f5ddf1 EnglishTranslator_autogen/timestamp
