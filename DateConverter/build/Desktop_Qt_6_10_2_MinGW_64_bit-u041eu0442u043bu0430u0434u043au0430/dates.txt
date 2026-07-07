@@ -1,0 +1,153 @@
+# Месяцы (именительный падеж)
+january январь 1
+february февраль 2
+march март 3
+april апрель 4
+may май 5
+june июнь 6
+july июль 7
+august август 8
+september сентябрь 9
+october октябрь 10
+november ноябрь 11
+december декабрь 12
+
+# Месяцы (родительный падеж - для дат)
+january_gen января 1
+february_gen февраля 2
+march_gen марта 3
+april_gen апреля 4
+may_gen мая 5
+june_gen июня 6
+july_gen июля 7
+august_gen августа 8
+september_gen сентября 9
+october_gen октября 10
+november_gen ноября 11
+december_gen декабря 12
+
+# Сокращения месяцев
+jan янв 1
+feb фев 2
+mar мар 3
+apr апр 4
+jun июн 6
+jul июл 7
+aug авг 8
+sep сен 9
+oct окт 10
+nov ноя 11
+dec дек 12
+
+# Дни недели
+monday понедельник 1
+tuesday вторник 2
+wednesday среда 3
+thursday четверг 4
+friday пятница 5
+saturday суббота 6
+sunday воскресенье 7
+
+# Сокращения дней недели
+mon пн 1
+tue вт 2
+wed ср 3
+thu чт 4
+fri пт 5
+sat сб 6
+sun вс 7
+
+# Числа для дня (порядковые - именительный падеж, мужской род)
+first первый 1
+second второй 2
+third третий 3
+fourth четвертый 4
+fifth пятый 5
+sixth шестой 6
+seventh седьмой 7
+eighth восьмой 8
+ninth девятый 9
+tenth десятый 10
+eleventh одиннадцатый 11
+twelfth двенадцатый 12
+thirteenth тринадцатый 13
+fourteenth четырнадцатый 14
+fifteenth пятнадцатый 15
+sixteenth шестнадцатый 16
+seventeenth семнадцатый 17
+eighteenth восемнадцатый 18
+nineteenth девятнадцатый 19
+twentieth двадцатый 20
+thirtieth тридцатый 30
+fortieth сороковой 40
+fiftieth пятидесятый 50
+sixtieth шестидесятый 60
+seventieth семидесятый 70
+eightieth восьмидесятый 80
+ninetieth девяностый 90
+hundredth сотый 100
+thousandth тысячный 1000
+
+# Числа для дня (порядковые - средний род, для дат)
+first_neuter первое 1
+second_neuter второе 2
+third_neuter третье 3
+fourth_neuter четвертое 4
+fifth_neuter пятое 5
+sixth_neuter шестое 6
+seventh_neuter седьмое 7
+eighth_neuter восьмое 8
+ninth_neuter девятое 9
+tenth_neuter десятое 10
+eleventh_neuter одиннадцатое 11
+twelfth_neuter двенадцатое 12
+thirteenth_neuter тринадцатое 13
+fourteenth_neuter четырнадцатое 14
+fifteenth_neuter пятнадцатое 15
+sixteenth_neuter шестнадцатое 16
+seventeenth_neuter семнадцатое 17
+eighteenth_neuter восемнадцатое 18
+nineteenth_neuter девятнадцатое 19
+twentieth_neuter двадцатое 20
+thirtieth_neuter тридцатое 30
+fortieth_neuter сороковое 40
+fiftieth_neuter пятидесятое 50
+sixtieth_neuter шестидесятое 60
+seventieth_neuter семидесятое 70
+eightieth_neuter восьмидесятое 80
+ninetieth_neuter девяностое 90
+hundredth_neuter сотое 100
+
+# Числа для года (количественные)
+one один 1
+two два 2
+three три 3
+four четыре 4
+five пять 5
+six шесть 6
+seven семь 7
+eight восемь 8
+nine девять 9
+ten десять 10
+eleven одиннадцать 11
+twelve двенадцать 12
+thirteen тринадцать 13
+fourteen четырнадцать 14
+fifteen пятнадцать 15
+sixteen шестнадцать 16
+seventeen семнадцать 17
+eighteen восемнадцать 18
+nineteen девятнадцать 19
+twenty двадцать 20
+thirty тридцать 30
+forty сорок 40
+fifty пятьдесят 50
+sixty шестьдесят 60
+seventy семьдесят 70
+eighty восемьдесят 80
+ninety девяносто 90
+hundred сто 100
+thousand тысяча 1000
+
+# Особые случаи для года
+two thousand две тысячи 2000
