@@ -1,0 +1,3 @@
+C:/Users/HONOR/source/repos/Lab2_OS/out/build/x64-debug/CMakeFiles/Lab2_OS.dir
+C:/Users/HONOR/source/repos/Lab2_OS/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/HONOR/source/repos/Lab2_OS/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
