@@ -1,0 +1,93 @@
+# ==========================================
+# 1. Visual Studio (Проекты lulu и др.)
+# ==========================================
+.vs/
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
+*.cache
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+*.ipch
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.exe
+*.dll
+*.recipe
+*.tlog
+*.lastbuildstate
+
+# ==========================================
+# 2. CMake (Если где-то используется)
+# ==========================================
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+install_manifest.txt
+*.cmake
+Testing/
+CMakeUserPresets.json
+
+# ==========================================
+# 3. Qt / Qt Creator (CountingOutGame, DateConverter, EnglishTranslator, dictionary)
+# ==========================================
+*.pro.user
+*.pro.user.*
+*.qmlproject.user
+*.qmlproject.user.*
+*.qmlc
+*.jsc
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qm
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+*.autosave
+
+# ==========================================
+# 4. Архивы (parol.zip и др.)
+# ==========================================
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# ==========================================
+# 5. Системные файлы и IDE
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ==========================================
+# 6. Временные файлы
+# ==========================================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
